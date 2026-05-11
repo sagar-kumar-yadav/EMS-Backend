@@ -1,1 +1,3 @@
-application.properties
+# Ignore local application config
+src/main/resources/application.properties
+target/classes/application.properties
